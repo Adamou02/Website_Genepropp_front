@@ -38,22 +38,6 @@ To have a good Angular environment, type in your console :
   npm install
   ```
 
-- Install angular tools
-  ```
-  ng add @angular/material
-  ```
-
-- Install familytree depency
-  ```
-  npm i @balkangraph/familytree.js
-  ```
-
-- Install Cookie Service depency
-  ```
-  npm install ngx-cookie-service
-  ```
-
-
 
 ## Execution
 
