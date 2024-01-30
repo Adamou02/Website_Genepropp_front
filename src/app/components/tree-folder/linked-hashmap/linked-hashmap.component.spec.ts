@@ -1,16 +1,16 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { LinkedHashmapComponent } from './linked-hashmap.component';
+import { LinkedHashMap } from './linked-hashmap.component';
 
-describe('LinkedHashmapComponent', () => {
-  let component: LinkedHashmapComponent;
-  let fixture: ComponentFixture<LinkedHashmapComponent>;
+describe('LinkedHashMap', () => {
+  let component: LinkedHashMap<string, number>;
+  let fixture: ComponentFixture<LinkedHashMap<string, number>>;
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [LinkedHashmapComponent]
+      declarations: [LinkedHashMap]
     });
-    fixture = TestBed.createComponent(LinkedHashmapComponent);
+    fixture = TestBed.createComponent<LinkedHashMap<string, number>>(LinkedHashMap);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });
