@@ -7,7 +7,7 @@ module.exports = function(config) {
         require('karma-chrome-launcher'),
         require('@angular-devkit/build-angular/plugins/karma')
       ],
-      browsers: ['ChromeHeadless'], // Utilisez Chrome en mode sans tête
+      browsers: ['ChromeHeadless'],
       reporters: ['progress', 'kjhtml'],
       port: 9876,
       colors: true,
