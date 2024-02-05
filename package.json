@@ -4,7 +4,7 @@
   "description": "This website lets you generate and view family trees. Each user can add members to his or her tree. A written chat system allows users to exchange information, validate users in their tree, etc...\r Users can modify their account information, as well as the information on the nodes that make up their tree.",
   "main": "karma.conf.js",
   "dependencies": {
-    "@angular/material": "^17.1.1",
+    "@angular/material": "^17.1.2",
     "@balkangraph/familytree.js": "^1.9.13",
     "abab": "^2.0.6",
     "abbrev": "^2.0.0",
