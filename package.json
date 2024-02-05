@@ -244,7 +244,7 @@
     "is-number-like": "^1.0.8",
     "is-plain-obj": "^3.0.0",
     "is-plain-object": "^2.0.4",
-    "is-stream": "^2.0.1",
+    "is-stream": "^3.0.0",
     "is-unicode-supported": "^0.1.0",
     "is-what": "^3.14.1",
     "is-wsl": "^2.2.0",
