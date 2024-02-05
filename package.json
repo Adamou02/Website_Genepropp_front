@@ -46,7 +46,7 @@
     "body-parser": "^1.20.2",
     "bonjour-service": "^1.2.1",
     "boolbase": "^1.0.0",
-    "brace-expansion": "^1.1.11",
+    "brace-expansion": "^3.0.0",
     "braces": "^3.0.2",
     "browser-sync": "^2.29.3",
     "browser-sync-client": "^2.29.3",
