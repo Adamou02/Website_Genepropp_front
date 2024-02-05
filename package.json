@@ -352,7 +352,7 @@
     "nth-check": "^2.1.1",
     "object-assign": "^4.1.1",
     "object-hash": "^3.0.0",
-    "object-inspect": "^1.12.3",
+    "object-inspect": "^1.13.1",
     "obuf": "^1.1.2",
     "on-finished": "^2.4.1",
     "on-headers": "^1.0.2",
