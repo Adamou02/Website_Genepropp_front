@@ -14,12 +14,10 @@ export class YourPopupComponentComponent {
     ) {}
 
   editer() {
-    console.log('Editer');
     this.dialogRef.close({action: 'Edit'});
   }
 
   valider() {
-    console.log('Valider');
     this.dialogRef.close({action: 'Submit'});
     
   }

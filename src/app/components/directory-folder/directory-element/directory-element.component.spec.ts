@@ -1,4 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
+import { RouterModule, ActivatedRoute } from '@angular/router';
 
 import { DirectoryElementComponent } from './directory-element.component';
 
@@ -8,7 +9,11 @@ describe('DirectoryElementComponent', () => {
 
   beforeEach(() => {
     TestBed.configureTestingModule({
-      declarations: [DirectoryElementComponent]
+      imports: [RouterModule],
+      declarations: [DirectoryElementComponent],
+      providers: [
+        { provide: ActivatedRoute, useValue: {} }
+      ]
     });
     fixture = TestBed.createComponent(DirectoryElementComponent);
     component = fixture.componentInstance;

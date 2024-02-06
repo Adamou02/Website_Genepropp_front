@@ -6,14 +6,14 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
   styleUrls: ['./profil-inputs.component.css']
 })
 export class ProfilInputsComponent {
-  @Input() input: any;
+  @Input() input: any = { value: '' };
   @Output() valueChanged = new EventEmitter<any>();
 
   isCursorNotAllowed(): boolean {
-    return this.input.disabled === true;
+    return this?.input?.disabled === true;
   }
 
   onValueChanged(event: any) {
-    this.valueChanged.emit({ label: this.input.label, value: event.target.value });
+    this.valueChanged.emit({ label: this?.input?.label, value: event?.target?.value });
   }
 }
