@@ -1,7 +1,6 @@
 import { Component, Inject  } from '@angular/core';
 import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 import { TreeService } from '../../../services/tree/tree.service';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-special-success-popup',
@@ -13,8 +12,7 @@ export class SpecialSuccessPopupComponent {
   constructor(
     public dialogRef: MatDialogRef<SpecialSuccessPopupComponent>,
     @Inject(MAT_DIALOG_DATA) public data: any,
-    private treeService : TreeService,
-    private router: Router
+    private treeService : TreeService
     ) {
       dialogRef.disableClose = true;
       this.treeService = treeService;

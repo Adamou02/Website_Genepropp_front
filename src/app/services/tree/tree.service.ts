@@ -3,8 +3,6 @@ import { HttpClient } from '@angular/common/http';
 import { HttpParams } from '@angular/common/http';
 import { Observable } from 'rxjs';
 
-import { LinkedHashMap } from '../../components/tree-folder/linked-hashmap/linked-hashmap.component';
-
 interface TreeResponce {
   value: any[];
   message: string | null;

@@ -1,12 +1,15 @@
 import { TestBed } from '@angular/core/testing';
+import { HttpClientModule } from '@angular/common/http';
 
 import { TreeService } from './tree.service';
 
 describe('TreeService', () => {
   let service: TreeService;
 
-  beforeEach(() => {
-    TestBed.configureTestingModule({});
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      imports: [HttpClientModule],
+    });
     service = TestBed.inject(TreeService);
   });
 
