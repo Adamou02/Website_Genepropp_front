@@ -197,7 +197,7 @@
     "glob-parent": "^5.1.2",
     "glob-to-regexp": "^0.4.1",
     "globals": "^11.12.0",
-    "globby": "^13.2.2",
+    "globby": "^14.0.1",
     "graceful-fs": "^4.2.11",
     "handle-thing": "^2.0.1",
     "has": "^1.0.4",
