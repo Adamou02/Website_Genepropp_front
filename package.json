@@ -397,7 +397,7 @@
     "postcss-import": "^15.1.0",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.1",
-    "postcss-loader": "^7.3.3",
+    "postcss-loader": "^8.1.0",
     "postcss-modules-extract-imports": "^3.0.0",
     "postcss-modules-local-by-default": "^4.0.3",
     "postcss-modules-scope": "^3.0.0",
