@@ -470,7 +470,7 @@
     "shebang-regex": "^3.0.0",
     "shell-quote": "^1.8.1",
     "side-channel": "^1.0.4",
-    "signal-exit": "^3.0.7",
+    "signal-exit": "^4.1.0",
     "sigstore": "^2.1.0",
     "simplebar": "^6.2.5",
     "simplebar-core": "^1.2.4",
