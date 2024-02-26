@@ -387,7 +387,7 @@
     "path-to-regexp": "^0.1.7",
     "path-type": "^4.0.0",
     "picocolors": "^1.0.0",
-    "picomatch": "^2.3.1",
+    "picomatch": "^4.0.1",
     "pify": "^4.0.1",
     "pirates": "^4.0.6",
     "piscina": "^4.1.0",
