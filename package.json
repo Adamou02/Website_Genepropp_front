@@ -469,7 +469,7 @@
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
     "shell-quote": "^1.8.1",
-    "side-channel": "^1.0.4",
+    "side-channel": "^1.0.5",
     "signal-exit": "^4.1.0",
     "sigstore": "^2.1.0",
     "simplebar": "^6.2.5",
