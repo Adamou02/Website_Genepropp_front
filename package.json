@@ -4,11 +4,11 @@
   "description": "This website lets you generate and view family trees. Each user can add members to his or her tree. A written chat system allows users to exchange information, validate users in their tree, etc...\r Users can modify their account information, as well as the information on the nodes that make up their tree.",
   "main": "karma.conf.js",
   "dependencies": {
-    "@angular/cli": "^17.1.1",
-    "@angular/material": "^17.1.2",
-    "@angular/platform-browser": "^17.0.9",
-    "@angular/platform-browser-dynamic": "^17.0.9",
-    "@angular/router": "^17.1.1",
+    "@angular/cli": "^17.2.1",
+    "@angular/material": "^17.2.1",
+    "@angular/platform-browser": "^17.2.2",
+    "@angular/platform-browser-dynamic": "^17.2.2",
+    "@angular/router": "^17.2.2",
     "@balkangraph/familytree.js": "^1.9.13",
     "abab": "^2.0.6",
     "abbrev": "^2.0.0",
@@ -587,8 +587,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular-devkit/build-angular": "^17.0.9",
-    "@angular/localize": "^17.1.1",
+    "@angular-devkit/build-angular": "^17.2.1",
+    "@angular/localize": "^17.2.2",
     "@types/jasmine": "^5.1.4",
     "karma": "^6.4.2",
     "string-width-cjs": "^5.1.1"
