@@ -252,7 +252,7 @@
     "is-unicode-supported": "^0.1.0",
     "is-what": "^3.14.1",
     "is-wsl": "^2.2.0",
-    "isarray": "^1.0.0",
+    "isarray": "^2.0.5",
     "isbinaryfile": "^4.0.10",
     "isexe": "^2.0.0",
     "isobject": "^3.0.1",
