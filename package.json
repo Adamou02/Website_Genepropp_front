@@ -526,7 +526,7 @@
     "ts-interface-checker": "^0.1.13",
     "tslib": "^2.6.2",
     "tuf-js": "^2.1.0",
-    "type-fest": "^0.21.3",
+    "type-fest": "^4.10.3",
     "type-is": "^1.6.18",
     "typed-assert": "^1.0.9",
     "typescript": "^5.2.2",
