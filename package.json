@@ -298,7 +298,7 @@
     "lodash.isfinite": "^3.3.2",
     "log-symbols": "^4.1.0",
     "log4js": "^6.9.1",
-    "lru-cache": "^5.1.1",
+    "lru-cache": "^10.2.0",
     "magic-string": "^0.30.5",
     "make-dir": "^4.0.0",
     "make-fetch-happen": "^13.0.0",
