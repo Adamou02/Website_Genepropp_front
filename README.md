@@ -41,7 +41,7 @@ To have a good Angular environment, type in your console :
 
 ## Execution
 
-First, launch the [GenTreeApp file](genealogic-tree-back/src/main/java/com/acfjj/app/GenTreeApp.java) with your JEE environment.
+First, launch the [GenTreeApp file](https://github.com/Adamou02/Website_Genepropp_back/tree/main/src/main/java/com/acfjj/app/GenTreeApp.java) with your JEE environment.
 Make sure your have [clone and run the backend](https://github.com/Adamou02/Website_Genepropp_back)
 
 Then, run angular project
