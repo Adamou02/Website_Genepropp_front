@@ -4,6 +4,7 @@
   "description": "This website lets you generate and view family trees. Each user can add members to his or her tree. A written chat system allows users to exchange information, validate users in their tree, etc...\r Users can modify their account information, as well as the information on the nodes that make up their tree.",
   "main": "karma.conf.js",
   "dependencies": {
+    "@angular/core": "^17.3.2",
     "@angular/cli": "^17.3.2",
     "@angular/material": "^17.3.2",
     "@angular/platform-browser": "^17.3.2",
