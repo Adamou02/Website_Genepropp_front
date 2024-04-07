@@ -549,7 +549,7 @@
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^5.0.0",
     "vary": "^1.1.2",
-    "vite": "^5.0.13",
+    "vite": "^5.1.7",
     "void-elements": "^2.0.1",
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
