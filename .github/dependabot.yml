@@ -20,11 +20,17 @@ updates:
         update-types:
         - "patch"
         - "minor"
+        exclude-patterns:
+          - "@angular*"
+          - "@balkangraph*"
       prod-dependencies:
         dependency-type: "production"
         update-types:
         - "patch"
-        - "minor"        
+        - "minor"
+        exclude-patterns:
+          - "@angular*"
+          - "@balkangraph*"    
 
   - package-ecosystem: "github-actions"
     directory: "/"
