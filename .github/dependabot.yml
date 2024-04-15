@@ -15,9 +15,16 @@ updates:
       balkangraph:
         patterns:
           - "@balkangraph*"
-      other:
-        patterns:
-          - "*"
+      dev-dependencies:
+        dependency-type: "development"
+        update-types:
+        - "patch"
+        - "minor"
+      prod-dependencies:
+        dependency-type: "production"
+        update-types:
+        - "patch"
+        - "minor"        
 
   - package-ecosystem: "github-actions"
     directory: "/"
