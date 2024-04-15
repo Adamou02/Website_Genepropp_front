@@ -15,9 +15,22 @@ updates:
       balkangraph:
         patterns:
           - "@balkangraph*"
-      other:
-        patterns:
-          - "*"
+      dev-dependencies:
+        dependency-type: "development"
+        update-types:
+        - "patch"
+        - "minor"
+        exclude-patterns:
+          - "@angular*"
+          - "@balkangraph*"
+      prod-dependencies:
+        dependency-type: "production"
+        update-types:
+        - "patch"
+        - "minor"
+        exclude-patterns:
+          - "@angular*"
+          - "@balkangraph*"    
 
   - package-ecosystem: "github-actions"
     directory: "/"
