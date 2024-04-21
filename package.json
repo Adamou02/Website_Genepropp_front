@@ -526,7 +526,7 @@
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.1",
     "tree-kill": "^1.2.2",
-    "ts-interface-checker": "^0.1.13",
+    "ts-interface-checker": "^1.0.2",
     "tslib": "^2.6.2",
     "tuf-js": "^2.1.0",
     "type-fest": "^4.10.3",
