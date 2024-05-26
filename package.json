@@ -329,7 +329,7 @@
     "minipass-sized": "^1.0.3",
     "minizlib": "^2.1.2",
     "mitt": "^1.2.0",
-    "mkdirp": "^0.5.6",
+    "mkdirp": "^3.0.1",
     "mrmime": "^1.0.1",
     "ms": "^2.1.2",
     "multicast-dns": "^7.2.5",
