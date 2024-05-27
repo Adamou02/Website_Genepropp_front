@@ -249,7 +249,7 @@
     "is-lambda": "^1.0.1",
     "is-number": "^7.0.0",
     "is-number-like": "^1.0.8",
-    "is-plain-obj": "^3.0.0",
+    "is-plain-obj": "^4.1.0",
     "is-plain-object": "^2.0.4",
     "is-stream": "^3.0.0",
     "is-unicode-supported": "^2.0.0",
