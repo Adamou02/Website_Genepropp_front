@@ -299,7 +299,7 @@
     "lodash-es": "^4.17.21",
     "lodash.debounce": "^4.0.8",
     "lodash.isfinite": "^3.3.2",
-    "log-symbols": "^4.1.0",
+    "log-symbols": "^6.0.0",
     "log4js": "^6.9.1",
     "lru-cache": "^10.2.0",
     "magic-string": "^0.30.5",
