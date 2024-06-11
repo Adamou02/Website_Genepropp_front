@@ -456,7 +456,7 @@
     "safer-buffer": "^2.1.2",
     "safevalues": "^0.5.2",
     "sass": "^1.72.0",
-    "sass-loader": "^14.1.1",
+    "sass-loader": "^14.2.1",
     "sax": "^1.3.0",
     "schema-utils": "^4.2.0",
     "select-hose": "^2.0.0",
