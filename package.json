@@ -292,7 +292,7 @@
     "limiter": "^1.1.5",
     "lines-and-columns": "^1.2.4",
     "loader-runner": "^4.3.0",
-    "loader-utils": "^3.2.1",
+    "loader-utils": "^3.3.1",
     "localtunnel": "^2.0.2",
     "locate-path": "^5.0.0",
     "lodash": "^4.17.21",
