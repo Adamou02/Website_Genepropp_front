@@ -186,7 +186,7 @@
     "forwarded": "^0.2.0",
     "fraction.js": "^4.3.6",
     "fresh": "^0.5.2",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^11.2.0",
     "fs-minipass": "^3.0.3",
     "fs-monkey": "^1.0.5",
     "fs.realpath": "^1.0.0",
