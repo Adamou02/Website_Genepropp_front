@@ -376,7 +376,7 @@
     "p-try": "^2.2.0",
     "pacote": "^18.0.6",
     "pako": "^1.0.11",
-    "parent-module": "^1.0.1",
+    "parent-module": "^3.1.0",
     "parse-json": "^5.2.0",
     "parse-node-version": "^1.0.1",
     "parse5-html-rewriting-stream": "^7.0.0",
