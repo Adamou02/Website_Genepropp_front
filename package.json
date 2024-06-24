@@ -43,7 +43,7 @@
     "babel-plugin-polyfill-corejs2": "^0.4.7",
     "babel-plugin-polyfill-corejs3": "^0.10.1",
     "babel-plugin-polyfill-regenerator": "^0.6.2",
-    "balanced-match": "^1.0.2",
+    "balanced-match": "^3.0.1",
     "base64-js": "^1.5.1",
     "base64id": "^2.0.0",
     "batch": "^0.6.1",
