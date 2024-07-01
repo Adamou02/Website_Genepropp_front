@@ -312,7 +312,7 @@
     "merge2": "^1.4.1",
     "methods": "^1.1.2",
     "micromatch": "^4.0.5",
-    "mime": "^2.6.0",
+    "mime": "^4.0.3",
     "mime-db": "^1.52.0",
     "mime-types": "^2.1.35",
     "mimic-fn": "^5.0.0",
