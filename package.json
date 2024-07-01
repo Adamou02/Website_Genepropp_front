@@ -552,7 +552,7 @@
     "validate-npm-package-name": "^5.0.0",
     "vary": "^1.1.2",
     "vite": "^5.1.7",
-    "void-elements": "^2.0.1",
+    "void-elements": "^3.1.0",
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
     "wcwidth": "^1.0.1",
