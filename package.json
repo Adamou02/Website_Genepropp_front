@@ -320,7 +320,7 @@
     "minimalistic-assert": "^1.0.1",
     "minimatch": "^3.1.2",
     "minimist": "^1.2.8",
-    "minipass": "^7.0.4",
+    "minipass": "^7.1.2",
     "minipass-collect": "^2.0.1",
     "minipass-fetch": "^3.0.4",
     "minipass-flush": "^1.0.5",
