@@ -137,7 +137,7 @@
     "electron-to-chromium": "^1.4.815",
     "emoji-regex": "^8.0.0",
     "emojis-list": "^3.0.0",
-    "encodeurl": "^1.0.2",
+    "encodeurl": "^2.0.0",
     "encoding": "^0.1.13",
     "engine.io": "^6.5.3",
     "engine.io-client": "^6.5.3",
