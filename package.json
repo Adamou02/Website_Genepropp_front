@@ -396,7 +396,7 @@
     "piscina": "^4.1.0",
     "pkg-dir": "^7.0.0",
     "portscanner": "^2.2.0",
-    "postcss": "^8.4.33",
+    "postcss": "^8.4.39",
     "postcss-import": "^16.0.1",
     "postcss-js": "^4.0.1",
     "postcss-load-config": "^4.0.1",
