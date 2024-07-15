@@ -547,7 +547,7 @@
     "uri-js": "^4.4.1",
     "util-deprecate": "^1.0.2",
     "utils-merge": "^1.0.1",
-    "uuid": "^8.3.2",
+    "uuid": "^10.0.0",
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^5.0.0",
     "vary": "^1.1.2",
