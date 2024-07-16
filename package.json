@@ -423,7 +423,7 @@
     "range-parser": "^1.2.1",
     "raw-body": "^2.5.2",
     "read-cache": "^1.0.0",
-    "read-package-json": "^7.0.0",
+    "read-package-json": "^7.0.1",
     "read-package-json-fast": "^3.0.2",
     "readable-stream": "^4.5.2",
     "readdirp": "^3.6.0",
