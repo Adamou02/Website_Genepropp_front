@@ -318,7 +318,7 @@
     "mimic-fn": "^5.0.0",
     "mini-css-extract-plugin": "^2.7.6",
     "minimalistic-assert": "^1.0.1",
-    "minimatch": "^3.1.2",
+    "minimatch": "^10.0.1",
     "minimist": "^1.2.8",
     "minipass": "^7.1.2",
     "minipass-collect": "^2.0.1",
