@@ -47,7 +47,7 @@
     "base64-js": "^1.5.1",
     "base64id": "^2.0.0",
     "batch": "^0.6.1",
-    "big.js": "^5.2.2",
+    "big.js": "^6.2.1",
     "binary-extensions": "^3.0.0",
     "bl": "^4.1.0",
     "body-parser": "^1.20.2",
