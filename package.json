@@ -284,7 +284,7 @@
     "karma-source-map-support": "^1.4.0",
     "kind-of": "^6.0.3",
     "klona": "^2.0.6",
-    "launch-editor": "^2.6.1",
+    "launch-editor": "^2.8.0",
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
     "license-webpack-plugin": "^4.0.2",
