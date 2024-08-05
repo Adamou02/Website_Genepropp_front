@@ -405,7 +405,7 @@
     "postcss-modules-local-by-default": "^4.0.3",
     "postcss-modules-scope": "^3.0.0",
     "postcss-modules-values": "^4.0.0",
-    "postcss-nested": "^6.0.1",
+    "postcss-nested": "^6.2.0",
     "postcss-selector-parser": "^6.0.13",
     "postcss-value-parser": "^4.2.0",
     "pretty-bytes": "^6.1.1",
