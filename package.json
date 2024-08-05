@@ -388,7 +388,7 @@
     "path-parse": "^1.0.7",
     "path-scurry": "^1.10.1",
     "path-to-regexp": "^0.1.7",
-    "path-type": "^5.0.0",
+    "path-type": "^6.0.0",
     "picocolors": "^1.0.0",
     "picomatch": "^4.0.1",
     "pify": "^4.0.1",
