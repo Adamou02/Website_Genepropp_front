@@ -144,7 +144,7 @@
     "engine.io-parser": "^5.2.1",
     "enhanced-resolve": "^5.15.0",
     "ent": "^2.2.0",
-    "entities": "^4.5.0",
+    "entities": "^5.0.0",
     "env-paths": "^2.2.1",
     "err-code": "^3.0.1",
     "errno": "^0.1.8",
