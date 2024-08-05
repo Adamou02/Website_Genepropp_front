@@ -521,7 +521,7 @@
     "thenify": "^3.3.1",
     "thenify-all": "^1.6.0",
     "thunky": "^1.1.0",
-    "tmp": "^0.0.33",
+    "tmp": "^0.2.3",
     "to-fast-properties": "^2.0.0",
     "to-regex-range": "^5.0.1",
     "toidentifier": "^1.0.1",
