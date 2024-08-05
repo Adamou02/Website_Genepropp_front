@@ -178,7 +178,7 @@
     "fill-range": "^7.0.1",
     "finalhandler": "^1.1.2",
     "find-cache-dir": "^5.0.0",
-    "find-up": "^4.1.0",
+    "find-up": "^7.0.0",
     "flat": "^5.0.2",
     "flatted": "^3.2.9",
     "follow-redirects": "^1.15.6",
