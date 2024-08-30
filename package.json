@@ -196,7 +196,7 @@
     "get-intrinsic": "^1.2.1",
     "get-package-type": "^0.1.0",
     "get-stream": "^6.0.1",
-    "glob": "^7.2.3",
+    "glob": "^11.0.0",
     "glob-parent": "^5.1.2",
     "glob-to-regexp": "^0.4.1",
     "globals": "^11.12.0",
