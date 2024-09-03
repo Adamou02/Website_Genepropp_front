@@ -140,7 +140,7 @@
     "encodeurl": "^2.0.0",
     "encoding": "^0.1.13",
     "engine.io": "^6.5.3",
-    "engine.io-client": "^6.5.3",
+    "engine.io-client": "^6.6.0",
     "engine.io-parser": "^5.2.1",
     "enhanced-resolve": "^5.15.0",
     "ent": "^2.2.0",
