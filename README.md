@@ -1,5 +1,6 @@
 # Genepropp
 
+[![Build status](https://github.com/Adamou02/Website_Genepropp_front/actions/workflows/test.yml/badge.svg)](https://github.com/Adamou02/Website_Genepropp_front/actions/workflows/test.yml)
 
 This website lets you generate and view family trees. Each user can add members to his or her tree. A written chat system allows users to exchange information, validate users in their tree, etc...
 Users can modify their account information, as well as the information on the nodes that make up their tree.
