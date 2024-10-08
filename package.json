@@ -98,7 +98,7 @@
     "convert-source-map": "^2.0.0",
     "cookie": "^0.6.0",
     "cookie-signature": "^1.0.6",
-    "copy-anything": "^2.0.6",
+    "copy-anything": "^4.0.2",
     "copy-webpack-plugin": "^11.0.0",
     "core-js-compat": "^3.35.0",
     "core-util-is": "^1.0.3",
