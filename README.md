@@ -27,14 +27,14 @@ Then, make sure you have all dependencies
 
 ## Dependencies
 
-To have a good Angular environment, type in your console :
+To have a good Project environment, type in your console :
 
 - Move to your angular project
   ```
   cd Website_Genepropp_front
   ```
 
-- Install angular environment
+- Install project dependencies
   ```
   npm install
   ```
@@ -55,6 +55,15 @@ Then, [open the website](http://localhost:4200/)
 http://localhost:4200/
 ```
 
+
+# Build
+
+To build the project without starting it
+```
+npm run build
+```
+
+This will build the project in `dist/` directory.
 
 
 ## Authors
