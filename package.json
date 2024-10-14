@@ -227,7 +227,7 @@
     "ieee754": "^1.2.1",
     "ignore": "^5.2.4",
     "ignore-walk": "^6.0.4",
-    "image-size": "^0.5.5",
+    "image-size": "^1.1.1",
     "immutable": "^4.3.7",
     "import-fresh": "^3.3.0",
     "imurmurhash": "^0.1.4",
