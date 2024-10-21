@@ -5,9 +5,9 @@
   "main": "karma.conf.js",
   "dependencies": {
     "@angular/core": "^18.2.7",
-    "@angular/cli": "^18.2.7",
+    "@angular/cli": "^18.2.9",
     "@angular/common": "^18.2.7",
-    "@angular/material": "^18.2.7",
+    "@angular/material": "^18.2.9",
     "@angular/forms": "^18.2.7",
     "@angular/platform-browser": "^18.2.7",
     "@angular/platform-browser-dynamic": "^18.2.7",
@@ -590,7 +590,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.7",
+    "@angular-devkit/build-angular": "^18.2.9",
     "@angular/localize": "^18.2.7",
     "@types/jasmine": "^5.1.4",
     "karma": "^6.4.2",
