@@ -225,7 +225,7 @@
     "iconv-lite": "^0.6.3",
     "icss-utils": "^5.1.0",
     "ieee754": "^1.2.1",
-    "ignore": "^5.2.4",
+    "ignore": "^6.0.2",
     "ignore-walk": "^6.0.4",
     "image-size": "^1.1.1",
     "immutable": "^4.3.7",
