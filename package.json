@@ -114,7 +114,7 @@
     "date-format": "^4.0.14",
     "debug": "^4.3.4",
     "default-gateway": "^7.2.2",
-    "defaults": "^1.0.4",
+    "defaults": "^3.0.0",
     "define-lazy-prop": "^2.0.0",
     "depd": "^2.0.0",
     "destroy": "^1.2.0",
