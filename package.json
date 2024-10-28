@@ -566,7 +566,7 @@
     "websocket-extensions": "^0.1.4",
     "which": "^4.0.0",
     "wildcard": "^2.0.1",
-    "wrap-ansi": "^7.0.0",
+    "wrap-ansi": "^9.0.0",
     "wrap-ansi-cjs": "^8.0.0",
     "wrappy": "^1.0.2",
     "ws": "^8.17.1",
