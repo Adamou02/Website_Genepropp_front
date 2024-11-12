@@ -533,7 +533,7 @@
     "type-is": "^1.6.18",
     "typed-assert": "^1.0.9",
     "typescript": "^5.2.2",
-    "ua-parser-js": "^0.7.36",
+    "ua-parser-js": "^1.0.39",
     "undici": "^6.19.4",
     "unicode-canonical-property-names-ecmascript": "^2.0.0",
     "unicode-match-property-ecmascript": "^2.0.0",
