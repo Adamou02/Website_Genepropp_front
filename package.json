@@ -219,7 +219,7 @@
     "http-errors": "^2.0.0",
     "http-parser-js": "^0.5.8",
     "http-proxy": "^1.18.1",
-    "http-proxy-middleware": "^2.0.6",
+    "http-proxy-middleware": "^3.0.3",
     "https-proxy-agent": "^7.0.2",
     "human-signals": "^8.0.0",
     "iconv-lite": "^0.6.3",
