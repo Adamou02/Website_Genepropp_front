@@ -105,7 +105,7 @@
     "cors": "^2.8.5",
     "cosmiconfig": "^9.0.0",
     "critters": "^0.0.24",
-    "cross-spawn": "^7.0.3",
+    "cross-spawn": "^7.0.6",
     "css-loader": "^6.8.1",
     "css-select": "^5.1.0",
     "css-what": "^6.1.0",
