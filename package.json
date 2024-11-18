@@ -184,7 +184,7 @@
     "follow-redirects": "^1.15.6",
     "foreground-child": "^3.3.0",
     "forwarded": "^0.2.0",
-    "fraction.js": "^4.3.6",
+    "fraction.js": "^5.2.1",
     "fresh": "^0.5.2",
     "fs-extra": "^11.2.0",
     "fs-minipass": "^3.0.3",
