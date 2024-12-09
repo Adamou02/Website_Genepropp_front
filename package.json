@@ -391,7 +391,7 @@
     "path-type": "^6.0.0",
     "picocolors": "^1.0.0",
     "picomatch": "^4.0.1",
-    "pify": "^4.0.1",
+    "pify": "^6.1.0",
     "pirates": "^4.0.6",
     "piscina": "^4.1.0",
     "pkg-dir": "^7.0.0",
