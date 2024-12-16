@@ -514,7 +514,7 @@
     "tailwindcss": "^3.4.4",
     "tapable": "^2.2.1",
     "tar": "^7.4.3",
-    "terser": "^5.31.6",
+    "terser": "^5.37.0",
     "terser-webpack-plugin": "^5.3.9",
     "test-exclude": "^6.0.0",
     "text-table": "^0.2.0",
