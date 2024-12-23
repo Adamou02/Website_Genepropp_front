@@ -81,7 +81,7 @@
     "cli-spinners": "^3.1.0",
     "cli-width": "^4.1.0",
     "cliui": "^8.0.1",
-    "clone": "^1.0.4",
+    "clone": "^2.1.2",
     "clone-deep": "^4.0.1",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.3",
