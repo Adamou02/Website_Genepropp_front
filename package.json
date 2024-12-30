@@ -433,7 +433,7 @@
     "regenerator-runtime": "^0.14.1",
     "regenerator-transform": "^0.15.2",
     "regex-parser": "^2.2.11",
-    "regexpu-core": "^5.3.2",
+    "regexpu-core": "^6.2.0",
     "regjsparser": "^0.11.0",
     "require-directory": "^2.1.1",
     "require-from-string": "^2.0.2",
