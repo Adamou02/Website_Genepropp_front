@@ -327,7 +327,7 @@
     "minipass-json-stream": "^1.0.1",
     "minipass-pipeline": "^1.2.4",
     "minipass-sized": "^1.0.3",
-    "minizlib": "^2.1.2",
+    "minizlib": "^3.0.1",
     "mitt": "^1.2.0",
     "mkdirp": "^3.0.1",
     "mrmime": "^1.0.1",
