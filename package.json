@@ -551,7 +551,7 @@
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^6.0.0",
     "vary": "^1.1.2",
-    "vite": "^5.4.8",
+    "vite": "^6.0.7",
     "void-elements": "^3.1.0",
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
