@@ -257,7 +257,7 @@
     "is-wsl": "^3.1.0",
     "isarray": "^2.0.5",
     "isbinaryfile": "^4.0.10",
-    "isexe": "^2.0.0",
+    "isexe": "^3.1.1",
     "isobject": "^3.0.1",
     "istanbul-lib-coverage": "^3.2.0",
     "istanbul-lib-instrument": "^5.2.1",
