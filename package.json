@@ -330,7 +330,7 @@
     "minizlib": "^3.0.1",
     "mitt": "^1.2.0",
     "mkdirp": "^3.0.1",
-    "mrmime": "^1.0.1",
+    "mrmime": "^2.0.0",
     "ms": "^2.1.2",
     "multicast-dns": "^7.2.5",
     "mute-stream": "^1.0.0",
