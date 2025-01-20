@@ -213,7 +213,7 @@
     "hpack.js": "^2.1.6",
     "html-entities": "^2.4.0",
     "html-escaper": "^2.0.2",
-    "htmlparser2": "^9.1.0",
+    "htmlparser2": "^10.0.0",
     "http-cache-semantics": "^4.1.1",
     "http-deceiver": "^1.2.7",
     "http-errors": "^2.0.0",
