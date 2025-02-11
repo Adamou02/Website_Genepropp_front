@@ -551,7 +551,7 @@
     "validate-npm-package-license": "^3.0.4",
     "validate-npm-package-name": "^6.0.0",
     "vary": "^1.1.2",
-    "vite": "^6.0.7",
+    "vite": "^6.1.0",
     "void-elements": "^3.1.0",
     "watchpack": "^2.4.0",
     "wbuf": "^1.7.3",
@@ -590,7 +590,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@angular-devkit/build-angular": "^18.2.12",
+    "@angular-devkit/build-angular": "^19.1.6",
     "@angular/localize": "^18.2.12",
     "@types/jasmine": "^5.1.4",
     "karma": "^6.4.2",
